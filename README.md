@@ -29,3 +29,11 @@ This project is a simple and effective tool that converts tables from PDF files 
    pip install pdfplumber pandas PyPDF2 openpyxl
 3. ```bash
    python pdftoexcel.py
+
+## Output
+
+# Input 
+![Description of the screenshot](./screenshots/input_file_screenshot.PNG)
+
+# Result
+![Description of the screenshot](./screenshots/output_file_screenshot.PNG)
